@@ -1,3 +1,4 @@
+
 # HR Management System
 
 This project is an HR management system designed to facilitate the addition and viewing of HR assistants, employees, and department details, with added search functionality.
@@ -19,17 +20,61 @@ This project is an HR management system designed to facilitate the addition and 
 
 -Search for employees by name, department, or other criteria.
 
-**Department Management:**
+**Department Management**
 
 -Assign employees to specific departments.
 
 -View department details.
 
+# Usage
+
+**Adding a new HR AssistanT**
+
+-Navigate to the HR Assistant section.
+
+-Click on "Add New HR Assistant" button.
+
+-Fill in the required details and submit the form.
+
+**Viewing HR Assistant Details**
+
+-Navigate to the HR Assistant section.
+
+-Click on "View Details" next to the HR assistant you want to inspect.
+
+**Searching HR Assistants**
+
+-Use the search bar on the HR Assistant section to search by name or other criteria.
+
+**Adding a new Employee**
+
+-Navigate to the Employee section.
+
+-Click on "Add New Employee" button.
+
+-Fill in the employee's details including department assignment.
+
+**Viewing Newly Added Employee Details**
+
+-Navigate to the Employee section.
+-Recently added employees should appear in the list view.
+
+
+**Searching Employees**
+
+-Use the search bar on the Employee section to search by name, department, or other criteria.
+
+**Managing Departments**
+
+-Navigate to the Department section.
+
+-Add new departments and manage existing ones as required.
+
 **Technologies Used**
 
 -Language: JAVA
 
-
+# PICTURES OF THE APPLICATION
 ![Screenshot (224)](https://github.com/user-attachments/assets/2431c38b-81d3-4478-bbb2-2465abd82c52)
 ![Screenshot (225)](https://github.com/user-attachments/assets/7d33b7b6-0f68-4819-867b-ab8c39d965e4)
 ![Screenshot (226)](https://github.com/user-attachments/assets/3e61cbfd-8a0a-4443-82db-622d9130d43f)
@@ -45,6 +90,7 @@ This project is an HR management system designed to facilitate the addition and 
 ![Screenshot (236)](https://github.com/user-attachments/assets/8abce08d-6630-49e0-bbe7-38f7618cf632)
 ![Screenshot (237)](https://github.com/user-attachments/assets/91aee05b-fcba-4743-93a2-a4d251f7aba8)
 ![Screenshot (238)](https://github.com/user-attachments/assets/83ba4840-ca08-4abe-8d8d-add5efc7c0fc)
+
 
 
 
